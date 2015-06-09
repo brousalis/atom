@@ -27,6 +27,8 @@ class AtomWindow
 
     options =
       show: false
+      transparent: true,
+      frame: false,
       title: 'Atom'
       'web-preferences':
         'direct-write': true
